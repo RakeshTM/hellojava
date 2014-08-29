@@ -1,4 +1,5 @@
 hellojava
 =========
 
-my first app
+
+blasting app from beginner
